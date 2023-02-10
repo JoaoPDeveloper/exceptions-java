@@ -6,7 +6,7 @@ import java.io.*;
 //Imprimir um arquivo no console.
 public class CheckedException {
     public static void main(String[] args) {
-        String nomeDoArquivo = "romance-blake-crouch.txt";
+        String nomeDoArquivo = "romances-blake-crouch.txt";
 
         try {
             imprimirArquivoNoConsole(nomeDoArquivo);
